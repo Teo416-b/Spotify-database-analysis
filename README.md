@@ -4,7 +4,7 @@ Description:
 This project contains 12 SQL queries developed for a database analysis.
 
 Database and Setup:
-The analysis was performed on a SQLite database. The base Spotify dataset, the user ratings file, and the initial indexing script were provided as part of the academic assignment. My contribution in this project is the design, logical structuring, and implementation of the 12 SQL queries.
+The analysis was performed on a SQLite database. The base Spotify dataset, the ratings and the indexing files, were provided as part of the academic assignment. My contribution in this project is the design, logical structuring, and implementation of the 12 SQL queries.
 
 Query overview:
 
