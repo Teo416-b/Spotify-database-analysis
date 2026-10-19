@@ -1,7 +1,10 @@
 Spotify database analysis
 
 Description:
-This project contains 12 SQL queries developed for a comprehensive database analysis.
+This project contains 12 SQL queries developed for a database analysis.
+
+Database and Setup:
+The analysis was performed on a SQLite database. The base Spotify dataset, the user ratings file, and the initial indexing script were provided as part of the academic assignment. My contribution in this project is the design, logical structuring, and implementation of the 12 SQL queries.
 
 Query overview:
 
@@ -29,5 +32,4 @@ Query 11: Achieves the exact same result as Query 10 (artists in both Rock and B
 
 Query 12: Identifies pairs of users with highly similar tastes (for recommendation purposes) by finding those who have given the exact same rating to at least 25 common albums.
 
-Database and Setup:
-The analysis was performed on a SQLite database. The base Spotify dataset, the user ratings file, and the initial indexing script were provided as part of the academic assignment. My contribution in this project is the design, logical structuring, and implementation of the 12 SQL queries.
+
